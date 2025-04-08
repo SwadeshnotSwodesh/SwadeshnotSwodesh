@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **swadeshthapaworkspace@gmail.com**
 
-- 🧩 Fun fact **I see bugs as plot twists.**
+- 🧩 Fun fact: **I see bugs as plot twists.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
