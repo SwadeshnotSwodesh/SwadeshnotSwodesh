@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swadesh Thapa</h1>
-<h3 align="center">A passionate Software Developer from Nepal 🇳🇵</h3>
+<h3 align="center">A Passionate Backend & Software Developer from Nepal 🇳🇵</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swadeshnotswodesh&label=Profile%20views&color=0e75b6&style=flat" />
@@ -13,20 +13,20 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🌱 Currently learning **GraphQL**
-- 🛠️ Working with **Django & Django REST Framework**
-- 👯 Looking to collaborate on **Java & Python projects**
-- 🤝 Open to **Backend Development & API Design**
-- 💬 Ask me about **Java, Python, REST APIs**
+- 💻 Passionate about **Backend Development & Distributed Systems**
+- 🏗️ Worked with **Spring Boot, Django, REST APIs**
+- 🌱 Currently exploring **GraphQL deeply**
+- 🔧 Hands-on with backend tools like **Docker, Kubernetes, Celery, Redis, RabbitMQ**
+- 🤝 Open to collaboration on **scalable backend systems & APIs**
 - 📫 Reach me at **swadeshthapaworkspace@gmail.com**
-- 🌐 Website: **<a href="https://swadeshthapa.com.np" target="_blank">swadeshthapa.com.np</a>**
+- 🌐 Website: <a href="https://swadeshthapa.com.np" target="_blank">swadeshthapa.com.np</a>
 - 🧩 Fun fact: *I see bugs as plot twists.*
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://github.com/SwadeshnotSwodesh" target="_blank">
@@ -40,58 +40,55 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-#### 💻 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-</p>
+### 💻 Programming Languages
+- C, C++
+- Java
+- JavaScript
+- Python
 
 ---
 
-#### 🌐 Web & Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/>
-</p>
-
----
-
-#### ⚙️ APIs & Backend Concepts
-- REST APIs (Django REST Framework)
+### 🌐 Backend Development
+- Spring Boot (Java)
+- Django
+- Django REST Framework (DRF)
+- FastAPI
+- REST APIs
 - GraphQL
-- Authentication & Authorization
-- API Design Principles
 
 ---
 
-#### 🗄️ Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
-</p>
+### ⚙️ Distributed Systems & Messaging
+- Celery (Async Task Processing)
+- Redis (Caching / Broker)
+- RabbitMQ (Message Queue)
 
 ---
 
-#### 🧰 DevOps & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40"/>
-</p>
+### 🐳 DevOps & Containerization
+- Docker
+- Kubernetes
 
 ---
 
-### 📊 GitHub Stats
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- Redis
+
+---
+
+### 🔧 Tools & Platforms
+- Git & GitHub
+- Postman
+- MATLAB
+
+---
+
+## 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swadeshnotswodesh&layout=compact&theme=tokyonight" />
