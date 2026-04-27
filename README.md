@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=swadeshnotswodesh&theme=algolia&no-frame=true&margin-w=15" />
+    
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="https://github.com/SwadeshnotSwodesh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="40"/>
   </a>
 
   <a href="https://www.linkedin.com/in/swadesh-thapa-190880239/" target="_blank">
@@ -94,7 +94,7 @@
 ### 🔧 Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>
 
