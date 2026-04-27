@@ -1,99 +1,68 @@
-<h1 align="center">Hi 👋, I'm Swadesh Thapa</h1>
-<h3 align="center">A Passionate Backend & Software Developer from Nepal 🇳🇵</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swadeshnotswodesh&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=swadeshnotswodesh&theme=algolia&no-frame=true&margin-w=15" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 💻 Passionate about **Backend Development & Distributed Systems**
-- 🏗️ Worked with **Spring Boot, Django, REST APIs**
-- 🌱 Currently exploring **GraphQL deeply**
-- 🔧 Hands-on with backend tools like **Docker, Kubernetes, Celery, Redis, RabbitMQ**
-- 🤝 Open to collaboration on **scalable backend systems & APIs**
-- 📫 Reach me at **swadeshthapaworkspace@gmail.com**
-- 🌐 Website: <a href="https://swadeshthapa.com.np" target="_blank">swadeshthapa.com.np</a>
-- 🧩 Fun fact: *I see bugs as plot twists.*
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/SwadeshnotSwodesh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/swadesh-thapa-190880239/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- C, C++
-- Java
-- JavaScript
-- Python
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
 
 ---
 
 ### 🌐 Backend Development
-- Spring Boot (Java)
-- Django
-- Django REST Framework (DRF)
-- FastAPI
-- REST APIs
-- GraphQL
+<p>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" title="Spring Boot"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" title="Django"/>
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="40" title="Django REST Framework"/>
+  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="40" title="FastAPI"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" title="GraphQL"/>
+</p>
 
 ---
 
 ### ⚙️ Distributed Systems & Messaging
-- Celery (Async Task Processing)
-- Redis (Caching / Broker)
-- RabbitMQ (Message Queue)
+<p>
+  <img src="https://www.vectorlogo.zone/logos/celeryproject/celeryproject-icon.svg" width="40" title="Celery"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" title="Redis"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" title="RabbitMQ"/>
+</p>
 
 ---
 
 ### 🐳 DevOps & Containerization
-- Docker
-- Kubernetes
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+</p>
 
 ---
 
 ### 🗄️ Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-- Redis
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
+</p>
 
 ---
 
 ### 🔧 Tools & Platforms
-- Git & GitHub
-- Postman
-- MATLAB
-
----
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
+</p>
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swadeshnotswodesh&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swadeshnotswodesh&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=swadeshnotswodesh&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swadeshnotswodesh&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
